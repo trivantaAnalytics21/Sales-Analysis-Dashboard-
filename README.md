@@ -1,11 +1,11 @@
-# Sales-Analysis-Dashboard-
-## Key Contributions:
+## Sales-Analysis-Dashboard-
+### Key Contributions:
 
-*** Data Preparation:*** Cleaned and transformed raw sales data using Power Query for consistency and accuracy.
+Data Preparation: Cleaned and transformed raw sales data using Power Query for consistency and accuracy.
 
-*** Data Modeling:*** Designed relational data models with proper relationships between multiple datasets (Sales, Products, Customers, Regions).
+Data Modeling: Designed relational data models with proper relationships between multiple datasets (Sales, Products, Customers, Regions).
 
-*** DAX Calculations:*** Created measures and calculated columns for KPIs such as revenue growth, profit margin, sales variance, and customer retention.
+DAX Calculations: Created measures and calculated columns for KPIs such as revenue growth, profit margin, sales variance, and customer retention.
 
 KPI Tracking: Built performance indicators to monitor monthly sales trends, top-performing products, and regional performance.
 
@@ -15,7 +15,7 @@ Business Reporting: Automated financial summaries and operational reports to imp
 
 Dashboard Design: Delivered a user-friendly, visually appealing dashboard with filters and interactive elements for executives and analysts.
 
-## Key Features:
+### Key Features:
 
 Data Cleaning & Transformation (Power Query)
 
@@ -33,7 +33,7 @@ Business Intelligence Reporting
 
 User-friendly Dashboard Design
 
-# Impact:  
+### Impact:  
 The dashboard enabled organizations to:
 
 Identify sales patterns and trends
